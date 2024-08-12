@@ -1,1 +1,1 @@
-# practica_github1
+esta es la primera classe y parctica con git y github
